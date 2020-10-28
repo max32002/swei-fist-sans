@@ -27,7 +27,7 @@
 * 相同一個字，在不地區的書寫方式可能會略有不同。
 
 ## 更新日誌
-[點擊此處](https://github.com/max32002/swei-bow-sans/blob/master/change_log.md) 查看更新記錄。
+[點擊此處](https://github.com/max32002/swei-fist-sans/blob/master/change_log.md) 查看更新記錄。
 
 ## 下載字型
 
@@ -40,9 +40,9 @@
 可以服用下面的css:
 ```
 @font-face {
-  font-family: SweiBowSansCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fist-sans@2.0/WebFont/CJK%20TC/SweiBowSansCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fist-sans@2.0/WebFont/CJK%20TC/SweiBowSansCJKtc-Regular.woff) format("woff");
+  font-family: SweiFistSansCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fist-sans@2.0/WebFont/CJK%20TC/SweiFistSansCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fist-sans@2.0/WebFont/CJK%20TC/SweiFistSansCJKtc-Regular.woff) format("woff");
 }
 ```
 
